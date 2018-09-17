@@ -2,11 +2,11 @@ import React from "react"
 import ReactDOM from "react-dom"
 
 const J2Code = ({ message }) => {
-	return (
-		<div>
-			{message}
-		</div>
-	)
+  return (
+	<div>
+		{message}
+	</div>
+  )
 };
 
 ReactDOM.render(
