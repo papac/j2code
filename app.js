@@ -10,6 +10,6 @@ const J2Code = ({ message }) => {
 };
 
 ReactDOM.render(
-	<J2Code message="Maintenant, codons !",
-	document.getElementById('root')
+  <J2Code message="Maintenant, codons !",
+  document.getElementById('root')
 );
