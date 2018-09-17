@@ -3,9 +3,9 @@ import ReactDOM from "react-dom"
 
 const J2Code = ({ message }) => {
   return (
-	<div>
-		{message}
-	</div>
+   <div>
+    {message}
+   </div>
   )
 };
 
