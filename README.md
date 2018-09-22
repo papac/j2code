@@ -1,6 +1,6 @@
 J2Code
 
-Code d'exemple sur la *le développement collaboratif*
+Code d'exemple sur *le développement collaboratif*
 
 ---
 
