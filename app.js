@@ -5,7 +5,7 @@ const J2Code = ({ message }) => {
   return (
    <div>
     {message}
-   </div
+   </div>
   )
 };
 
